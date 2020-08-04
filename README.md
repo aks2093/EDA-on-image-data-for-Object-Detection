@@ -1,5 +1,8 @@
 "# EDA-on-image-data-for-Object-Detection" 
 
+Note: Open Notebook in google colab for better visualization of the outputs and plots.
+
+
 Data Source: http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson/
 
 
